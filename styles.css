@@ -48,7 +48,12 @@ nav ul li a:hover::after{
     width:100%;
 }
 
-.photos{
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:1.5em;
+}
+.nineteenyear{
     display:flex;
     flex-direction:row;
     flex-wrap: wrap;
@@ -56,10 +61,9 @@ nav ul li a:hover::after{
     align-items: center;
  /* border:10px solid black; */
  margin:3em 10em;
- padding:1em 0 1em 7em;  
+ padding:1em 0 1em 7em; 
 }
-
-img{
+.nineteenyear img{
     width:50%;
-    object-fit:cover;  
+    object-fit:cover; 
 }
