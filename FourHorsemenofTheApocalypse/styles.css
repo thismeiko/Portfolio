@@ -48,58 +48,64 @@ nav ul li a:hover::after{
     width:100%;
 }
 
-
 h2{
+    text-align: center;
+    /* background-color: antiquewhite; */
     font-family: 'Times New Roman', Times, serif;
-    font-size:1.5em;
-    /* border:10px solid black; */
-    padding:0 3%;
+    font-size: 2em;
+    padding: 1em;
 }
 
-p{
-    font-family: 'Times New Roman', Times, serif;
-    font-size:1em;
-    /* border:10px solid black; */
-    padding:0 auto;
+h3{
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size:1.5em;
+color:#4d6c44;
+margin-top:2em;
 }
+
+.outcome{
+    display:flex;
+    flex-direction:column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+ /* border:10px solid black; */
+ margin:0 auto;
+ padding:0em;
+}
+
 img{
-    min-width:95%;
-    max-width: 100%;
-    height:20em;
-}
-.nineteenyear{
-    display:flex;
-    flex-direction:row;
-    flex-wrap: wrap;
-    /* justify-content: center;
-    align-items: center; */
- /* border:10px solid black; */
- margin:3em 10em;
- padding:1em 0 1em 7em; 
-}
-.nineteenyear img{
     width:50%;
-    object-fit:cover; 
+    object-fit:cover;
 }
 
-.twtw{
-    display:flex;
-    flex-direction:row;
-    flex-wrap: wrap;
-    /* justify-content: center;
-    align-items: center; */
- margin:3em 10em;
- padding:1em 0 1em 7em; 
- /* border:10px solid black; */
+.description{
+    /* background-color:antiquewhite;
+     border:10px solid black; */
+    margin:3em 20em;
+    padding:0.2em 0.5em;
 }
+ p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+ }
 
-.twtw img{
-    width:50%;
-    object-fit:cover; 
-}
+ .flowdesign{
+    display:inline-flex;
+    flex-direction: column;
+    flex-wrap:nowrap;
+    justify-content: center;
+    align-items: center;
+        /* background-color:antiquewhite;
+     border:10px solid black; */
+     margin-left:10%;
+     margin-right:10%;
+ }
+ .flowdesign img{
+    width:65%;
+ }
 
-#Fourhorsemenoftheapocalypse{
-    /* border:10px solid black;  */
-    margin-left:25%; 
-    
-}
+ .space{
+margin:20em;
+ }
