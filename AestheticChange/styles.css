@@ -76,15 +76,16 @@ img{
     /* background-color:antiquewhite;
      border:10px solid black; */
     margin:3em 20em;
-    padding:0.2em 0.5em 0 0.1em;
+    padding:0.2em 0.5em;
 }
  p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.2em;
  }
  #video{
-    margin-left:15.7em;
-    margin-bottom: 1.5em;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
  }
 
  .space{
