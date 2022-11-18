@@ -116,3 +116,22 @@ img{
     margin-left:5.5em;
      
 }
+
+.twtt{
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    /* justify-content: center;
+    align-items: center; */
+ margin:3em 10em;
+ padding:1em 0 1em 7em; 
+ /* border:10px solid black;  */
+}
+.twtt img{
+    width:50%;
+    object-fit:cover; 
+}
+#chicagosummer{
+    margin-left:6.2em;
+    width:28em;
+}
