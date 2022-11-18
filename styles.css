@@ -58,7 +58,7 @@ h2{
 
 p{
     font-family: 'Times New Roman', Times, serif;
-    font-size:1em;
+    font-size:1.2em;
     /* border:10px solid black; */
     padding:0 auto;
 }
@@ -98,8 +98,21 @@ img{
     object-fit:cover; 
 }
 
-/* #Fourhorsemenoftheapocalypse{
-   border:10px solid black;  
-    margin-left:25%; 
-    
-} */
+.twto{
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    /* justify-content: center;
+    align-items: center; */
+ margin:3em 10em;
+ padding:1em 0 1em 7em; 
+ /* border:10px solid black;  */
+}
+.twto img{
+    width:50%;
+    object-fit:cover; 
+}
+#suffocationoflove{
+    margin-left:5.5em;
+     
+}
