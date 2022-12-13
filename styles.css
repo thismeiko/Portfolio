@@ -132,10 +132,16 @@ img{
     object-fit:cover; 
 }
 #chicagosummer{
-    margin-left:6.2em;
-    width:28em;
+    /* margin-left:6.2em;
+    width:28em; */
 }
-
+#biodesign{
+    margin-left:10.5em;
+    width:35em;
+}
+#relativeStationary{
+    width:25em;
+}
 .contact{
     text-align: center;
     border:double 0.2em #3f475b;
