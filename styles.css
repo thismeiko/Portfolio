@@ -148,3 +148,12 @@ img{
     border-radius: 1em;
     margin: 15% 30%;
 }
+
+#HomeImg{
+    /* border:0.5em solid black;
+    border-radius: 3%; */
+padding:1% 10%;
+margin:5% 0%;
+width:3%;
+height:70%;
+}
