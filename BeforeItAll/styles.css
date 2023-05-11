@@ -63,14 +63,16 @@ h2{
 text-align: center;
 }
 
-#video{
-    max-width: 100%;
-    min-width:50%;
+.video{
+max-width:100%;
+min-width:20%;
 }
 
 img{
-    padding:3.8% 0%;
-    max-width:60%;
+    width: 560px;
+    max-width:120%;
+    min-width:30%;
+
 }
 
 .space{
