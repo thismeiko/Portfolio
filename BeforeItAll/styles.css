@@ -49,10 +49,9 @@ nav ul li a:hover::after{
 }
 
 h2{
-   /* background-color: antiquewhite; */
    font-family: 'Times New Roman', Times, serif; 
    font-size: 2em;
-   padding: 1em;
+   padding:1.8%;
 }
 
 .description{
@@ -60,6 +59,7 @@ h2{
 }
 
 .green{
-    color:#2b3b10;
+    /* color:#2b3b10; */
 text-align: center;
 }
+
