@@ -68,6 +68,11 @@ text-align: center;
     min-width:50%;
 }
 
+img{
+    padding:3.8% 0%;
+    max-width:70%;
+}
+
 .space{
     margin:8%;
      }
