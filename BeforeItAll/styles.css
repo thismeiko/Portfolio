@@ -55,7 +55,7 @@ h2{
 }
 
 .description{
-     padding:2% 12.5%;
+     padding:2% 20%;
 }
 
 .green{
@@ -63,14 +63,14 @@ h2{
 text-align: center;
 }
 
-.video{
+#video{
     max-width: 100%;
-    min-width:53%;
+    min-width:50%;
 }
 
 img{
     padding:3.8% 0%;
-    max-width:70%;
+    max-width:60%;
 }
 
 .space{
